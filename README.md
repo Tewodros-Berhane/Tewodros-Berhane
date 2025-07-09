@@ -1,5 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>       Recruitment/HR SaaS platform with AI-driven job matching<br>       Automation tools and bots for crypto (Telegram bots, trading signals, tracking wallets & new tokens)<br>👯 I’m looking to collaborate on<br>       Open source AI, automation, or crypto projects<br>       Blockchain applications (Solidity, Python)<br>       SaaS and startup ideas<br>🌱 I’m currently learning<br>      Advanced Solidity & smart contract patterns<br>      Next-level ML techniques for audio/image processing<br>      💬 Ask me about<br>      AI/ML project development and deployment<br>      Crypto and blockchain automation<br>      Backend systems (Laravel, Node.js)<br>      Building bots and workflow automation<br>⚡ Fun fact<br>      I’ve built systems from exam proctoring AI to crypto bots, and I’m always automating something new!<br>      I love sharing knowledge and making complex tech simple.
+# 💫 About Me
+
+- 🔭 **I’m currently working on:**
+  - Recruitment/HR SaaS platform with AI-driven job matching
+  - Automation tools and bots for crypto (Telegram bots, trading signals, tracking wallets & new tokens)
+
+- 👯 **I’m looking to collaborate on:**
+  - Open source AI, automation, or crypto projects
+  - Blockchain applications (Solidity, Python)
+  - SaaS and startup ideas
+
+- 🌱 **I’m currently learning:**
+  - Advanced Solidity & smart contract patterns
+  - Next-level ML techniques for audio/image processing
+
+- 💬 **Ask me about:**
+  - AI/ML project development and deployment
+  - Crypto and blockchain automation
+  - Backend systems (Laravel, Node.js)
+  - Building bots and workflow automation
+
+- ⚡ **Fun fact:**
+  - I’ve built systems from exam proctoring AI to crypto bots, and I’m always automating something new!
+  - I love sharing knowledge and making complex tech simple.
+
 
 
 ## 🌐 Socials:
